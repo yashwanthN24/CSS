@@ -1,0 +1,9 @@
+h1 {
+  color: currentColor;
+  /* internal its parsed as color : inherit */
+}
+
+h2 {
+  /* To fit the complete image onto the whole screen */
+  background-size: 100% 100%;
+}
